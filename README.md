@@ -1,3 +1,9 @@
+### QBUS Multicharacter & Spawn Reworked CSS
+
+### Previews : https://youtu.be/jK6TcZw4a-0
+
+### [MY DISCORD](https://discord.io/GTShop)
+
 Add these 2 lines your to Server.cfg.
 
 Ensure qb-multicharacter
