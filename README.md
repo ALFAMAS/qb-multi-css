@@ -2,7 +2,7 @@
 
 ### Previews : https://youtu.be/jK6TcZw4a-0
 
-### - [DISCORD](https://discord.io/GTShop)
+### My Discord Server - [DISCORD](https://discord.io/GTShop)
 
 ### SETUP 
 - Add these 2 lines your to `Server.cfg`.
