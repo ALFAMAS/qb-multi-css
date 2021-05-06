@@ -4,14 +4,11 @@
 
 ### [MY DISCORD](https://discord.io/GTShop)
 
-Add these 2 lines your to Server.cfg.
+### SETUP 
+- Add these 2 lines your to `Server.cfg`.
+- Ensure qb-multicharacter  &   Ensure qb-spawn
+- Done!
 
-Ensure qb-multicharacter
+To Change The Logo on Multicharacter Go to `qb-multicharacter/html`
 
-Ensure qb-spawn
-
-Done!
-
-To Change The Logo on Multicharacter Go to qb-multicharacter/html
-
-and Replace the qbus-logo.png with the one you want.
+and Replace the `qbus-logo.png` with the one you want.
