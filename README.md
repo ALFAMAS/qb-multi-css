@@ -1,4 +1,4 @@
-# QBUS [Multicharacter](https://github.com/qbcore-framework/qb-multicharacter) & Spawn Reworked CSS
+# QBUS Multicharacter & Spawn Reworked CSS
 
 ### Previews : https://youtu.be/jK6TcZw4a-0
 
